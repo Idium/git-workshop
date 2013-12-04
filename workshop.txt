@@ -1,0 +1,17 @@
+Idea:
+https://www.atlassian.com/git/workflows#!workflow-gitflow
+
+Implementation:
+https://github.com/nvie/gitflow
+
+Cheat-sheet:
+http://danielkummer.github.io/git-flow-cheatsheet
+
+Presentation from JavaZone 2013:
+http://jz13.java.no/presentation.html?id=6fb65b58
+
+SourceTree:
+http://www.sourcetreeapp.com/
+
+Installation:
+https://github.com/nvie/gitflow/wiki/Installation
