@@ -663,8 +663,8 @@ h3#reply-title small { display: block; }
 	display: none;
 	visibility: hidden;
 	height:100%;
-	padding:0;
-	margin:0;
+	padding:10px;
+	margin:20px;
 	}
   
   } /* End of Print CSS */ 
