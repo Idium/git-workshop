@@ -10,7 +10,7 @@ http://danielkummer.github.io/git-flow-cheatsheet
 Presentation from JavaZone 2013:
 http://jz13.java.no/presentation.html?id=6fb65b58
 
-SourceTree:
+SourceTree download:
 http://www.sourcetreeapp.com/
 
 Installation:
