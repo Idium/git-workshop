@@ -616,7 +616,7 @@ h3#reply-title small { display: block; }
 
 	#content-area,
 	#content  {
-	padding:0;
+	padding:10;
 	}
 
 	#services .service {
