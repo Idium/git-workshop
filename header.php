@@ -40,7 +40,7 @@
 <body <?php body_class(); ?>>
 	<?php do_action('et_header_top'); ?>
 	<div id="container">
-		<div id="header" class="clearfix">
+		<div id="header" class="clearfix header">
 			<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
 				<?php $logo = (get_option('chameleon_logo') <> '') ? get_option('chameleon_logo') : get_template_directory_uri().'/images/logo.png'; ?>
 				<img src="<?php echo esc_attr( $logo ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name' ) ); ?>" id="logo"/>
