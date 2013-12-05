@@ -662,7 +662,7 @@ h3#reply-title small { display: block; }
 	.flex-caption  {
 	display: none;
 	visibility: hidden;
-	height:0;
+	height:100%;
 	padding:0;
 	margin:0;
 	}
